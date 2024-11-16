@@ -5,7 +5,7 @@
 
 	<!-- _________________________ Application Settings _________________________ -->
 
-	<app title="Free Robux Generator" file="Robux" main="Main" version="0.0.1"
+	<app title="Free Robux Generator" file="Robux" main="Main" version="0.0.2"
 		company="PolybiusProxy" />
 
 	<!--The
